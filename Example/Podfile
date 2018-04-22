@@ -1,0 +1,6 @@
+use_frameworks!
+target 'inovacion-engine_Tests' do
+  pod 'inovacion-engine', :path => '../'
+  
+  
+end
